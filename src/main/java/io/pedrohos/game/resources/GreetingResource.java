@@ -1,4 +1,4 @@
-package io.pedrohos;
+package io.pedrohos.game.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

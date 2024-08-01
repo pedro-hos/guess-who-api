@@ -1,4 +1,4 @@
-package io.pedrohos;
+package io.pedrohos.game.resources;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 
