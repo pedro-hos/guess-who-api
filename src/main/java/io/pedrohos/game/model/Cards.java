@@ -31,6 +31,9 @@ public class Cards extends PanacheEntity {
 	@Column(name="image_url", length = 1000)
 	public String imageURL;
 	
+	@Column(name="content_page", columnDefinition = "TEXT")
+	public String contentPage;
+	
 	@ManyToOne(cascade = CascadeType.ALL)
 	@JoinColumn(name = "city_id")
 	@JsonIgnoreProperties("cards")

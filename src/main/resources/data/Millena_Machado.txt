@@ -1,0 +1,45 @@
+== Filmografia ==
+{| class="wikitable"
+|+
+!Ano
+!Título
+!Cargo
+!Emissora
+|-
+|2006-2009
+|''[[BandNews TV|Jornal BandNews]]''
+| rowspan="10" |Apresentadora
+|[[BandNews TV]]
+|-
+|2008-2011
+|''[[Jornal da Band]]''
+| rowspan="2" |[[Rede Bandeirantes]]
+|-
+|2009
+|''[[TV Trânsito]]''
+|-
+|2009-2010
+|''[[SP Acontece]]''
+|[[TV Bandeirantes São Paulo|Band São Paulo]]
+|-
+|2010-2011
+|''[[Primeiro Jornal]]''
+|[[Rede Bandeirantes]]
+|-
+|2011-2018
+|''[[Auto Esporte (programa de televisão)|Auto Esporte]]''
+|[[TV Globo]]
+|-
+|2020
+|''Festival de Prêmios''
+| rowspan="2" |[[RedeTV!]]
+|-
+|2021-2022
+|''[[RedeTV! News]]''
+|-
+| rowspan="2" |2023-2024
+|''Jornal do Empreendedor''
+| rowspan="2" |Canal Empreender
+|-
+|''Você Quer Empreender''
+|}

@@ -15,6 +15,7 @@
 		<quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
 		<quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
 		<quarkus.platform.version>3.13.0</quarkus.platform.version>
+		<quarkus-langchain4j.version>0.17.0</quarkus-langchain4j.version>
 		<skipITs>true</skipITs>
 		<surefire-plugin.version>3.2.5</surefire-plugin.version>
 	</properties>
@@ -51,16 +52,50 @@
 			<groupId>io.quarkus</groupId>
 			<artifactId>quarkus-resteasy-reactive-jackson</artifactId>
 		</dependency>
+		
 		<dependency>
 			<groupId>io.quarkiverse.langchain4j</groupId>
 			<artifactId>quarkus-langchain4j-openai</artifactId>
-			<version>0.17.0</version>
+			<version>${quarkus-langchain4j.version}</version>
 		</dependency>
-		<dependency>
+		
+		<!--<dependency>
 			<groupId>io.quarkiverse.langchain4j</groupId>
 			<artifactId>quarkus-langchain4j-ollama</artifactId>
-			<version>0.17.0</version>
+			<version>${quarkus-langchain4j.version}</version>
+		</dependency>-->
+
+		<dependency>
+			<groupId>io.quarkiverse.langchain4j</groupId>
+			<artifactId>quarkus-langchain4j-infinispan</artifactId>
+			<version>${quarkus-langchain4j.version}</version>
 		</dependency>
+
+		<!--<dependency>
+			<groupId>dev.langchain4j</groupId>
+			<artifactId>langchain4j-ollama</artifactId>
+			<version>0.33.0</version>
+		</dependency>-->
+
+		<!--<dependency>
+			<groupId>dev.langchain4j</groupId>
+			<artifactId>langchain4j-open-ai</artifactId>
+			<version>0.33.0</version>
+		</dependency>-->
+
+
+		<!--<dependency>
+			<groupId>io.quarkiverse.langchain4j</groupId>
+			<artifactId>quarkus-langchain4j-redis</artifactId>
+			<version>${quarkus-langchain4j.version}</version>
+		</dependency>-->
+
+		<dependency>
+			<groupId>dev.langchain4j</groupId>
+			<artifactId>langchain4j-embeddings-bge-small-en-q</artifactId>
+			<version>0.33.0</version>
+		</dependency>
+
 		<dependency>
 			<groupId>io.quarkus</groupId>
 			<artifactId>quarkus-junit5</artifactId>

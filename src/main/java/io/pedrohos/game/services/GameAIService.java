@@ -3,13 +3,15 @@ package io.pedrohos.game.services;
 import dev.langchain4j.service.SystemMessage;
 import dev.langchain4j.service.UserMessage;
 import io.quarkiverse.langchain4j.RegisterAiService;
+import jakarta.enterprise.context.SessionScoped;
 
-@RegisterAiService
+@RegisterAiService(retrievalAugmentor = Retriever.class)
+@SessionScoped
 public interface GameAIService {
 	
 	@SystemMessage("Você deve me dar dicas")
 	@UserMessage("""
-            leia o texto {wikipediaLink} e forneça {clueListSize} itens em json
+            quero {clueListSize} dicas para adivinhar quem é {content} em formato de lista
             """)
-	String getClues(String wikipediaLink, int clueListSize);
+	String getClues(String content, int clueListSize);
 }

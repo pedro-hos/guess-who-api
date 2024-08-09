@@ -1,0 +1,40 @@
+== Filmografia ==
+
+=== Televisão ===
+{| class="wikitable"
+!Ano
+!Título
+!Personagen
+!Notas
+|-
+|1995
+|[[Explode Coração|''Explode Coração'']]
+|Valéria<ref>{{Citar web|ultimo=Xavier|primeiro=Nilson|url=http://teledramaturgia.com.br/explode-coracao/|titulo=Explode Coração|acessodata=2023-04-09|website=Teledramaturgia|lingua=pt-BR}}</ref>
+|
+|-
+|1994
+|[[Incidente em Antares (minissérie)|''Incidente em Antares'']]
+|Matilde<ref>{{Citar web|url=https://memoriaglobo.globo.com/entretenimento/minisseries/incidente-em-antares/noticia/ficha-tecnica.ghtml|titulo=FICHA TÉCNICA|acessodata=2023-04-09|website=memoriaglobo|lingua=pt-br}}</ref>
+|
+|-
+|1993
+|[[O Mapa da Mina|''O Mapa da Mina'']]
+|Cibele Prado<ref>{{Citar web|ultimo=Xavier|primeiro=Nilson|url=http://teledramaturgia.com.br/o-mapa-da-mina/|titulo=O Mapa da Mina|acessodata=2023-04-09|website=Teledramaturgia|lingua=pt-BR}}</ref>
+|
+|-
+|1992
+|[[Perigosas Peruas|''Perigosas Peruas'']]
+|enfermeira de Dom Franco Torremolinos<ref>{{Citar web|ultimo=Xavier|primeiro=Nilson|url=http://teledramaturgia.com.br/perigosas-peruas/|titulo=Perigosas Peruas|acessodata=2023-04-09|website=Teledramaturgia|lingua=pt-BR}}</ref>
+|
+|-
+|1991
+|[[Floradas na Serra (minissérie)|''Floradas na Serra'']]
+|Valquiria Melo<ref>{{Citar web|ultimo=Xavier|primeiro=Nilson|url=http://teledramaturgia.com.br/floradas-na-serra-1991/|titulo=Floradas na Serra (1991)|acessodata=2023-04-09|website=Teledramaturgia|lingua=pt-BR}}</ref>
+|
+|}
+{{referências|Referências}}
+
+{{NF|1962||Mariane Vicentini}}
+[[Categoria:Naturais de São José dos Campos]]
+[[Categoria:Atrizes do estado de São Paulo]]
+[[Categoria:Primeiras-damas do Distrito Federal (Brasil)]]

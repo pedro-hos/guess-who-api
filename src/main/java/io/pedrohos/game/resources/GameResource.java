@@ -8,7 +8,6 @@ import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.QueryParam;
 import jakarta.ws.rs.core.MediaType;
-import jakarta.ws.rs.core.Response;
 
 /**
  * @author pedro-hos
@@ -24,16 +23,30 @@ public class GameResource {
 	@Inject
 	GameAIService ai;
 	
+//	@GET
+//	public Response start(@QueryParam("state") String state, @QueryParam("city") String city) {
+//		return Response.ok(ai.getClues(game.startGame(state, city).contentPage, 5)).build();
+//	}
+
 	@GET
-	public Response start(@QueryParam("state") String state, @QueryParam("city") String city) {
-		return Response.ok(game.startGame(state, city)).build();
+	@Produces(MediaType.TEXT_PLAIN)
+	public String start(@QueryParam("state") String state, @QueryParam("city") String city) {
+		return ai.getClues(game.startGame(state, city).answer, 5);
 	}
 	
-	@GET
-	@Path("/teste")
-	@Produces(MediaType.TEXT_PLAIN)
-	public String test() {
-		return ai.getClues("https://pt.wikipedia.org/wiki/Geovanna_Tominaga", 3);
-	}
-
+	/*
+	 * @GET
+	 * 
+	 * @Path("/bla") public void bla() {
+	 * 
+	 * var path =
+	 * "/home/pesilva/Workspace/code/pessoal/guess-who/guess-who-api/src/main/resources/catalog/";
+	 * 
+	 * Stream<Cards> streamAll = Cards.streamAll(); streamAll.forEach(c -> { var
+	 * fileName = c.answer.replaceAll(" ", "_").concat(".txt"); try {
+	 * Files.write(Paths.get("src/main/resources/catalog/" + fileName),
+	 * c.contentPage.getBytes()); } catch (IOException e) { e.printStackTrace(); }
+	 * }); }
+	 */
+	
 }

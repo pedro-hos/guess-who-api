@@ -1,0 +1,27 @@
+{{Info/Político
+|nome                  = Dr. Elton Junior
+|imagem                = 
+|imagem_legenda        = 0
+|título                = [[Deputado estadual]] de [[São Paulo (estado)|São Paulo]]
+|mandato               = [[15 de março]] de [[2023]]<br>até ''atualidade''
+|nome_de_nascimento    = Elton Alves Ribeiro de Carvalho Junior
+|data_nascimento       = {{dni|08|07|1974}}
+|local_nascimento      = [[São José dos Campos]], [[São Paulo (estado)|São Paulo]]
+|partido               = [[Partido Social Cristão]] {{Pequeno|(-presente)}}
+|profissão             = [[Médico]]
+}}
+
+'''Elton Alves Ribeiro de Carvalho Junior''', ([[São José dos Campos]], [[São Paulo (estado)|São Paulo]], [[08 de julho]] de [[1974]]) é um [[Médico]] e [[político]] [[brasileiro]], filiado ao [[Partido Social Cristão]].<ref>{{citar web|url=https://www.camarasjc.sp.gov.br/vereadores/detalhe.php%3Fid%3D38%26pg%3D22&cd=19&hl=pt-BR&ct=clnk&gl=br|título=|autor=|data=|publicado=|acessodata=|arquivourl=|arquivodata=|urlmorta=}}</ref>
+Nas [[Eleições estaduais em São Paulo em 2022|eleições de 2022]], foi eleito [[deputado estadual]] por [[São Paulo]] com 46.042 votos (0,20% dos votos válidos).<ref>{{citar web|url=https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2022/2040602022/SP/250001643810|título=|autor=|data=|publicado=|acessodata=|arquivourl=|arquivodata=|urlmorta=}}</ref> É [[médico]], [[Cirurgia geral|cirurgião geral]] e [[Unidade de terapia intensiva|intensivista]], foi vereador em 2º mandato na cidade de [[São José dos Campos]], perdeu o mandato na [[Câmara Municipal de São José dos Campos|câmara]] por [[Fidelidade partidária|infidelidade partidária.]]<ref>{{citar web|url=https://spriomais.com.br/2022/09/12/dr-elton-perde-o-mandato-na-camara-de-sjc-por-infidelidade-partidaria/|título=|autor=|data=|publicado=|acessodata=|arquivourl=|arquivodata=|urlmorta=}}</ref>
+ 
+{{Referências}}
+
+{{Portal3|Biografias|Política|São Paulo|Brasil}}
+
+{{Esboço-biografias}}
+
+[[Categoria:Membros do Partido Social Cristão‎‎]]
+[[Categoria:Naturais de São José dos Campos]]
+[[Categoria:Deputados estaduais de São Paulo]]
+[[Categoria:Vereadores de São José dos Campos]]
+[[Categoria:Médicos do estado de São Paulo]]

@@ -1,0 +1,35 @@
+{{Info/Político
+|nome            = Henrique Jorge Guedes
+|imagem          = Henrique Jorge Guedes.jpg
+|imagem_tamanho  = 200px        
+|título          = 
+|mandato         =
+|data_nascimento = {{dni|lang=br|17|12|1887|si}}
+|local_nascimento= 
+|data_morte      ={{nowrap|{{morte|lang=br|12|5|1973|17|12|1887}}}}
+|local_morte     =
+|profissão       = [[Engenheiro civil]] 
+|partido         = 
+}}
+'''Henrique Jorge Guedes''' ([[São José dos Campos]], {{dni|lang=br|17|12|1887|si}} — [[São Paulo (cidade)|São Paulo]], {{morte|lang=br|12|5|1973}}) foi um [[Engenharia civil|engenheiro civil]] formado pela [[Escola Politécnica da Universidade de São Paulo]] e [[político]] [[brasil]]eiro.<ref name="">{{citar web |url=http://www.poli.usp.br/pt/a-poli/historia/galeria-de-diretores/210-prof-dr-henrique-jorge-guedes.html |título=Prof. Dr. Henrique Jorge Guedes - 1938-1941 e 1947-1950 |acessodata=26/8/2015 |publicado=Escola Politécnica da Universidade de São Paulo |urlmorta=sim |wayb=20150924075201}}</ref>
+
+Foi [[deputado federal]] e [[Prefeitura (Brasil)|prefeito]] de [[São Paulo (cidade)|São Paulo]], de 5 de dezembro de 1931 a 23 de maio de 1932.
+
+{{Referências}}
+{{Começa caixa}}
+{{Caixa de sucessão
+|título=[[Lista de prefeitos de São Paulo|Prefeito de São Paulo]]
+|anos=1931 — 1932
+|antes=[[Luís Inácio de Anhaia Melo]]
+|depois=[[Gofredo Teixeira da Silva Teles]]
+}}
+{{Termina caixa}}
+{{Prefeitos de São Paulo}}
+{{Esboço-políticobra}}
+
+[[Categoria:Prefeitos da cidade de São Paulo]]
+[[Categoria:Deputados federais do Brasil por São Paulo]]
+[[Categoria:Engenheiros do estado de São Paulo]]
+[[Categoria:Professores da Escola Politécnica da Universidade de São Paulo]]
+[[Categoria:Alunos da Escola Politécnica da Universidade de São Paulo]]
+[[Categoria:Naturais de São José dos Campos]]

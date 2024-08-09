@@ -1,0 +1,120 @@
+== Resultados do Rally Dakar ==
+{| class="wikitable" style="margin-bottom: 10px;"
+!Ano
+!Classe
+!Veículo
+!Posição
+!Etapas vencidas
+|-
+!1988
+| rowspan="1" |Motocicletas
+| rowspan="1" |{{ÍconeBandeira|JPN}} [[Yamaha]]
+| align="center" style="background:#EFCFFF;" |NF
+| align="center" |0
+|-
+!1989
+| align="center" colspan="4" style="background:lightgrey;" |''Não participou''
+|-
+!1990
+| rowspan="2" |Motocicletas
+| rowspan="2" |{{ÍconeBandeira|JPN}} [[Yamaha]]
+| align="center" style="background:#CFCFFF;" |22º
+| align="center" |0
+|-
+!1991
+| align="center" style="background:#CFCFFF;" |21º
+| align="center" |0
+|-
+!1992
+| align="center" colspan="4" style="background:lightgrey;" |''Não participou''
+|-
+!1993
+| rowspan="2" |Motocicletas
+| rowspan="2" |{{ÍconeBandeira|JPN}} [[Yamaha]]
+| align="center" style="background:#DFFFDF;" |9º
+| align="center" |0
+|-
+!1994
+| align="center" style="background:#DFFFDF;" |15º
+| align="center" |0
+|-
+!1995
+| align="center" colspan="4" style="background:lightgrey;" |''Não participou''
+|-
+!1996
+| rowspan="2" |Motocicletas
+| rowspan="2" |{{ÍconeBandeira|AUT}} [[KTM]]
+| align="center" style="background:#DFFFDF;" |9º
+| align="center" |0
+|-
+!1997
+| align="center" style="background:#CFCFFF;" |15º
+| align="center" |0
+|-
+!1998
+| align="center" colspan="4" style="background:lightgrey;" |''Não participou''
+|-
+!1999
+| rowspan="9" |Caminhões
+| rowspan="9" |{{ÍconeBandeira|CZE}} [[Tatra (automóveis)|Tatra]]
+| align="center" style="background:#FFDF9F;" |3º
+| align="center" |2
+|-
+!2000
+| align="center" style="background:#DFFFDF;" |4º
+| align="center" |2
+|-
+!2001
+| align="center" style="background:#EFCFFF;" |NF
+| align="center" |1
+|-
+!2002
+| align="center" style="background:#DFFFDF;" |10º
+| align="center" |3
+|-
+!2003
+| align="center" style="background:#DFDFDF;" |2º
+| align="center" |2
+|-
+!2004
+| align="center" style="background:#DFFFDF;" |6º
+| align="center" |0
+|-
+!2005
+| align="center" style="background:#EFCFFF;" |NF
+| align="center" |0
+|-
+![[Rali Dakar de 2006|2006]]
+| align="center" style="background:#DFFFDF;" |4º
+| align="center" |0
+|-
+![[Rali Dakar de 2007|2007]]
+| align="center" style="background:#DFFFDF;" |5º
+| align="center" |0
+|-
+![[Rali Dakar de 2008|2008]]
+| align="center" colspan="4" style="background:lightgrey;" |''Evento cancelado– substituído pelo Rali da Europa Central''
+|-
+![[Rali Dakar de 2009|2009]]
+| rowspan="4" |Caminhões
+| rowspan="4" |{{ÍconeBandeira|CZE}} [[Tatra (automóveis)|Tatra]]
+| align="center" style="background:#DFFFDF;" |6º
+| align="center" |0
+|-
+![[Rali Dakar de 2010|2010]]
+| align="center" style="background:#EFCFFF;" |DNF
+| align="center" |0
+|-
+![[Rali Dakar de 2011|2011]]
+| align="center" style="background:#EFCFFF;" |DNF
+| align="center" |0
+|-
+![[Rali Dakar de 2012|2012]]
+| align="center" style="background:#DFFFDF;" |8º
+| align="center" |0
+|}
+
+{{Referências}}
+
+[[Categoria:Pilotos de rali do Brasil]]
+[[Categoria:Naturais de São José dos Campos]]
